@@ -15,4 +15,5 @@ The presentation can be viewed by clicking [this link](https://github.com/Jonash
 # Twitter Streaming with Spark Stream and Kafka
 Getting data from twitter in almost near real-time has many different use cases. For instance, a corporation may have the option to automatically track what people are tweeting about their brand in near real-time. Also, it may be possible to interact automatically with customers through twitter by developing a bot.
 
-Although this assignment is somewhat similar to the assignment above, it made us able to demonstrated our knowledge with Twitter. The report is quite self explanatory, so have a look at it by clicking [this link](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/Streaming%20(Spark%20Stream%2CKafka)/Twitter%20Streaming%20with%20Spark%20Stream%20and%20Kafka%20Report.pdf).
+
+
