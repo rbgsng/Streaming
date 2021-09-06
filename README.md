@@ -10,7 +10,7 @@ It is not possible to see the dashboard since there are no real-time streaming r
 
 ![Dashboard](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/Streaming%20(Spark%20Stream%2CKafka)/Dashboard.png)
 
-The presentation can be viewed by clicking [this link](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/Streaming%20(Spark%20Stream%2CKafka)/Streaming%20Sentiment%20from%20Twitter%20Presentation.pdf).
+The presentation can be viewed by clicking [this link](https://github.com/rbgsng).
 
 # Twitter Streaming with Spark Stream and Kafka
 Getting data from twitter in almost near real-time has many different use cases. For instance, a corporation may have the option to automatically track what people are tweeting about their brand in near real-time. Also, it may be possible to interact automatically with customers through twitter by developing a bot.
